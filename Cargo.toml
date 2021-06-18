@@ -1,9 +1,10 @@
 [package]
-name = "crate-name"
+name = "crate-_-name"
 description = "A simple macro to get the name of the current crate."
 version = "0.1.0"
 edition = "2018"
 authors = ["soeur <juzi201314@gmail.com>"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
